@@ -61,7 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BlockChain.cs" />
-    <Compile Include="FileManager.cs" />
     <Compile Include="Models\Block.cs" />
     <Compile Include="Models\Transaction.cs" />
     <Compile Include="Program.cs" />
